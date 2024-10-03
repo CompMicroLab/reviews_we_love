@@ -12,3 +12,7 @@
 ## Metagenomic/metatranscriptomic data analysis
 
 * Pinto and Bhatt. 2024. [Sequencing-based analysis of microbiomes](https://www.nature.com/articles/s41576-024-00746-6). *Nature Reviews Genetics* doi: 10.1038/s41576-024-00746-6.
+
+## Phylogenomics/phylodynamics
+
+* Nielsen, Vaughn, and Deng. 2024. [Inference and applications of ancestral recombination graphs](https://www.nature.com/articles/s41576-024-00772-4). *Nature Reviews Genetics* doi: https://doi.org/10.1038/s41576-024-00772-4.
