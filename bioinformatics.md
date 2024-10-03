@@ -1,4 +1,4 @@
-# Bioinformatic methods/concpets reviews/overviews
+# Bioinformatic methods/concepts reviews/overviews
 
 ## Bioinformatics benchmarking
 
