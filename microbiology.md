@@ -8,6 +8,6 @@
 
 ## Specific organisms
 
-### *Bacillus cereus* group genomics, taxonomy, and biology 
+### *Bacillus cereus* group
 
 * Carroll, et al. 2022. [Keeping up with the *Bacillus cereus* group: taxonomy through the genomics era and beyond](https://www.tandfonline.com/doi/full/10.1080/10408398.2021.1916735). *Critical Reviews in Food Science and Nutrition* 62(28):7677-7702. doi: 10.1080/10408398.2021.1916735.
