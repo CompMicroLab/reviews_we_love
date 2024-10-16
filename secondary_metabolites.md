@@ -10,6 +10,7 @@
 
 ## Human microbiome
 
+* Turocy and Crawford. 2024. [Bacterial small molecule metabolites implicated in gastrointestinal cancer development](https://www.nature.com/articles/s41579-024-01103-4). *Nature Reviews Microbiology* Oct 7. doi: 10.1038/s41579-024-01103-4.
 * Milshteyn, et al. 2018. [Accessing Bioactive Natural Products from the Human Microbiome](https://www.sciencedirect.com/science/article/pii/S1931312818302671?via%3Dihub). *Cell Host and Microbe* 23(6): 725-736. doi: 10.1016/j.chom.2018.05.013.
 * Sharon, et al. 2014. [Specialized metabolites from the microbiome in health and disease](https://www.sciencedirect.com/science/article/pii/S155041311400463X?via%3Dihub). *Cell Metabolism* 20(5): 719–730. doi: 10.1016/j.cmet.2014.10.016.
 
