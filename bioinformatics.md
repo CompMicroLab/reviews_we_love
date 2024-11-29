@@ -13,6 +13,10 @@
 
 * Pinto and Bhatt. 2024. [Sequencing-based analysis of microbiomes](https://www.nature.com/articles/s41576-024-00746-6). *Nature Reviews Genetics*. doi: 10.1038/s41576-024-00746-6.
 
+## Pan-genomics
+
+* Matthews, et al. 2024. [A gentle introduction to pangenomics](https://academic.oup.com/bib/article/25/6/bbae588/7902219?login=false). *Briefings in Bioinformatics* 25(6): bbae588. doi: 10.1093/bib/bbae588.
+
 ## Phylogenomics/phylodynamics
 
 * Nielsen, Vaughn, and Deng. 2024. [Inference and applications of ancestral recombination graphs](https://www.nature.com/articles/s41576-024-00772-4). *Nature Reviews Genetics*. doi: https://doi.org/10.1038/s41576-024-00772-4.
